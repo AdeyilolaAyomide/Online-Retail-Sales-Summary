@@ -3,7 +3,7 @@
 
 ### Project Overview 
 
-This project summarizes the key details of a retail sales of an hypothethical firm which occured between 12/01/2010 till 
+This project summarizes the key details of a retail sales of an online store which occured between 12/01/2010 and 
 12/09/2011. The aim is to identify sales details and trends useful for management decision-making to drive more sales. 
 
 ### Data Source
@@ -33,7 +33,7 @@ The data was analyzed to find out the following:
 1. The total amount of sales made during the period under consideration
 2. The total quantity of goods sold during the outlined period
 3. Apart from UK, what are the top countries where sales were generated?
-4. Best performing month
+4. Best performing sales month
 
 
 The visualization was done using Power BI. Find [dashboard](https://github.com/AdeyilolaAyomide/Online-Retail-Sales-Summary/blob/067eafdfb05c1233758d3f74446e9f7a19f6fc63/Online%20sales%20summary.pbix). Find [pdf_version](https://github.com/AdeyilolaAyomide/Online-Retail-Sales-Summary/blob/067eafdfb05c1233758d3f74446e9f7a19f6fc63/Online%20sales%20summary.pdf)
