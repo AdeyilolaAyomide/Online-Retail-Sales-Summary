@@ -4,7 +4,7 @@
 ### Project Overview 
 
 This project summarizes the key details of a retail sales of an online store which occured between 12/01/2010 and 
-12/09/2011. The aim is to identify sales details and trends useful for management decision-making to drive more sales. 
+12/09/2011. The aim is to identify key performance indicators and sales trends useful for management decision-making to drive more sales. 
 
 ### Data Source
 
@@ -16,7 +16,7 @@ This project summarizes the key details of a retail sales of an online store whi
 - Microsoft Power BI: Data analysis and visualization
 
 
-### Data Cleaning 
+### Data Cleaning  
 
 The following tasks were performed:
 
