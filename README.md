@@ -45,7 +45,8 @@ The results are as follows:
 1. The total amount of sales during the outlined period is $10.66M
 2. The total quantity sold: 5.59M products
 3. Sales from United Kingdom contributed 84.6% of the total purchase. Apart from UK, purhcase was made from 37 other countries. The top 10 are: Netherlands, EIRE, Germany, France, Australia, Spain, Switzerland, Belgium, Sweden and Japan in descending order.
-4. The highest purchase was recorded in November, 2011. Based on MoM% change, May 2011 recorded the highest purchase compared to the previous month with an increase of 43.27% compared to April, 2011.
+4. The highest purchase was recorded in November, 2011 ($1.51M).
+5. Based on MoM% change, May 2011 recorded the highest purchase compared to the previous month with an increase of 43.27% compared to April, 2011.
 
 ### Recommendation 
 1. The store should reinforce marketing in the top 10 countries (apart from UK) that contributed to the purchase from the online store in order to increase visibility and drive more sales in those countries.
